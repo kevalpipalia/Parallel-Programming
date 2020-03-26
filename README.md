@@ -1,2 +1,2 @@
 # Parallel Programming
- Parallel Programming self-study notes
+ Stanford Course CS 15-148 Parallel Programming self-study notes
